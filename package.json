@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/turingou/docker-hub/issues"
   },
-  "homepage": "https://github.com/turingou/docker-hub"
+  "homepage": "https://github.com/turingou/docker-hub",
+  "dependencies": {
+    "sdk": "^0.2.0"
+  }
 }

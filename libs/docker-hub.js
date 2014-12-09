@@ -1,4 +1,5 @@
 var apis = require('./apis');
+var sdk = require('sdk');
 
 module.exports = hub;
 
